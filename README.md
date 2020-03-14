@@ -1,5 +1,10 @@
 # wv-tagcp
-is a tool that allows you to painlessly copy ID3 and Ogg tags to WavPack files.
+is a tool that allows you to painlessly copy tags to WavPack files.
+
+## Dependencies
+* bash
+* wavpack
+* sox
 
 ## Usage
 `wv-tagcp.sh [infile] [outdir]`
