@@ -11,6 +11,7 @@ fi
 clear
 printf "wv-tagcp 1.0\n"
 wvtag -v
+sox --version
 
 printf "\n`tput bold`Which tags would you like to copy?`tput sgr0`\n"
 printf "You can find a list of them using soxi -a; this script\n"
