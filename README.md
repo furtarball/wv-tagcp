@@ -17,4 +17,4 @@ title:Title
 artist:Artist
 date:Year
 ````
-* TODO: use a database so users don't have to do this.
+A short list has already been added to the beginning of this script.
